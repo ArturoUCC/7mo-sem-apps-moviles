@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "ViveBS",
+    "slug": "ViveBS",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "package": "com.arturop.ViveBS"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-splash-screen",
+      "expo-font"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "c634ab8e-dea4-41ae-a152-e37a5754186c"
+      }
+    }
+  }
+}
