@@ -1,5 +1,5 @@
 {
-  "name": "proyecto",
+  "name": "playbox",
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
@@ -8,7 +8,7 @@
     "@react-navigation/bottom-tabs": "^7.19.2",
     "@react-navigation/drawer": "^7.14.2",
     "@react-navigation/native": "^7.4.1",
-    "expo": "~57.0.25",
+    "expo": "~57.0.26",
     "expo-sensors": "~57.0.3",
     "expo-splash-screen": "~57.0.9",
     "expo-status-bar": "~57.0.1",

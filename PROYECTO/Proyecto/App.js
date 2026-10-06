@@ -58,7 +58,7 @@ function AnimatedSplash({ onFinish }) {
     <View style={splashStyles.container}>
       <Animated.View style={{ transform: [{ scale }], opacity }}>
         <Text style={splashStyles.emoji}>🎮</Text>
-        <Text style={splashStyles.title}>Proyecto</Text>
+        <Text style={splashStyles.title}>PlayBox</Text>
         <Text style={splashStyles.subtitle}>Sensores & Juegos</Text>
       </Animated.View>
     </View>
